@@ -48,8 +48,8 @@ export function Projects() {
             imagem={projetologin} 
             title ="TELA LOGIN" 
             info={infos[2].card3}
-            link={""}
-            link2={""}
+            link={"https://devrickpy.github.io/portifolio/"}
+            link2={"https://github.com/devrickpy/portifolio"}
             />
             
         </div>
