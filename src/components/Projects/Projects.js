@@ -39,8 +39,8 @@ export function Projects() {
             title="PORTIFÓLIO" 
             icon="fa-brands fa-react" 
             info={infos[1].card2}
-            link={"https://devrickpy.github.io/telalogin/"}
-            link2={"https://github.com/devrickpy/telalogin"}
+            link={"https://devrickpy.github.io/portifolio/"}
+            link2={"https://github.com/devrickpy/portifolio"}
             />
             <Card 
             id="card3" 
@@ -48,8 +48,8 @@ export function Projects() {
             imagem={projetologin} 
             title ="TELA LOGIN" 
             info={infos[2].card3}
-            link={"https://devrickpy.github.io/portifolio/"}
-            link2={"https://github.com/devrickpy/portifolio"}
+            link={"https://devrickpy.github.io/telalogin/"}
+            link2={"https://github.com/devrickpy/telalogin"}
             />
             
         </div>
