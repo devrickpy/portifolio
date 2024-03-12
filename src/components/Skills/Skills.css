@@ -1,0 +1,115 @@
+.Skills {
+    margin-top: 10%;
+}
+
+
+.skill2 .git {
+    transition: 0.2s ease-in-out;
+    width: 52%;
+}
+
+.Skills h1 {
+    color: #333;
+    margin-left: -580px;
+}
+
+.title h1{
+    color: rgb(202, 5, 84);
+    font-size: 38px;
+    margin-top:4%;
+    margin-left: 149px;
+    text-align: left;
+}
+
+.Skills .top-row, 
+.Skills .bottom-row {
+    display: flex;
+    margin-left: 60px;
+
+}
+
+.Skills .bottom-row {
+    margin-left: 60px;
+}
+
+.Skills .top-row {
+    margin-top: 70px;
+}
+
+.Skills .skill, 
+.Skills .skill2 {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+
+
+.skill {
+    width: 240px;
+}
+.skill2 {
+    width: 240px;
+}
+
+.skill .css {
+    width: 28%;
+}
+.skill img {
+    transition: 0.2s ease-in-out;
+    width: 28%;
+}
+
+.skill2 img{
+    transition: 0.2s ease-in-out;
+    width: 30%;
+}
+
+.skill2 {
+    height: 220px;
+}
+
+#divjs {
+    height: 150px;
+}
+
+#divjs img{
+    transition: 0.2s ease-in-out;
+    margin-top: -10px;
+    width: 38%;
+}
+
+#divjs img:hover {
+    width: 42%;
+}
+
+.ajust {
+    margin-top: -10px;
+}
+
+.skill img:hover {
+    width: 32%;
+}
+
+.skill2 img:hover {
+    width: 34%;
+}
+
+.skill2 .git:hover {
+    width: 58%;
+}
+
+.skill span, .skill2 span {
+    font-weight: 600;
+    font-size: 16px;
+}
+
+
+.linhas {
+    margin-top: -1.5%;
+    margin-left: 8%;
+    width: 82%;
+    height: 1px;
+    background-color: #b40b4f;
+  }
+  

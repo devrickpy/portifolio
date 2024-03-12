@@ -1,0 +1,43 @@
+.About h1 {
+    color: rgb(202, 5, 84);
+    font-size: 38px;
+    margin-top: -2.2%;
+    margin-left: 149px;
+    text-align: left;
+    
+}
+
+.linhaa {
+    margin-top: 12%;
+    margin-left: 23.5%;
+    width: 70%;
+    height: 1px;
+    background-color: #b40b4f;
+}
+
+.texto {
+    margin-top: 10%;
+    margin-left: 10.5%;
+    width: 600px;
+}
+.texto p {
+    color: #444343;;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    text-align: left;
+    width: 600px;
+}
+
+.texto h1 {
+    font-size: 30px;
+    margin-left: -2px;
+
+}
+
+.imagemab {
+    margin-top: -31.5%;
+    display: flex;
+    margin-left: 55%;
+    width: 600px;
+}
