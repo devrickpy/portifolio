@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portifolio/static/css/main.b984154e.css",
+    "main.js": "/portifolio/static/js/main.be084c46.js",
+    "static/js/453.65917257.chunk.js": "/portifolio/static/js/453.65917257.chunk.js",
+    "static/media/Curriculo (1).pdf": "/portifolio/static/media/Curriculo (1).bab88fe043a832188006.pdf",
+    "static/media/Design sem nome-PhotoRoom.png-PhotoRoom (1).png": "/portifolio/static/media/Design sem nome-PhotoRoom.png-PhotoRoom (1).164ac18ccefb553decd7.png",
+    "static/media/Home_art 1 (1).svg": "/portifolio/static/media/Home_art 1 (1).653a5f9eb0bb7d2bcbc3a7adde63cd90.svg",
+    "static/media/Sem título (2) (1).png": "/portifolio/static/media/Sem título (2) (1).98ce8a62c482b669ee81.png",
+    "static/media/Modern_Minimalist_Graffiti_Dream_Brand_Logo__2_-removebg-preview.png": "/portifolio/static/media/Modern_Minimalist_Graffiti_Dream_Brand_Logo__2_-removebg-preview.8d120b5fb741199ca8f4.png",
+    "static/media/javascript-logo-javascript-icon-transparent-free-png.webp": "/portifolio/static/media/javascript-logo-javascript-icon-transparent-free-png.1053926cf2f54323bdc1.webp",
+    "static/media/Sem título (1) (1).png": "/portifolio/static/media/Sem título (1) (1).e770b04dd4cf61779a38.png",
+    "static/media/Sem título (3).png": "/portifolio/static/media/Sem título (3).4d8e1cd03b69b98bdabe.png",
+    "static/media/React-icon.svg.png": "/portifolio/static/media/React-icon.svg.dc7e60bf3343a1221187.png",
+    "static/media/Python-logo-notext.svg.png": "/portifolio/static/media/Python-logo-notext.svg.9f4597af009db0faca4d.png",
+    "static/media/css-512.webp": "/portifolio/static/media/css-512.637f4040460cdc0e6bb0.webp",
+    "static/media/images-Photoroom.png-Photoroom (2).png": "/portifolio/static/media/images-Photoroom.png-Photoroom (2).39818ff3af43b692329b.png",
+    "index.html": "/portifolio/index.html",
+    "main.b984154e.css.map": "/portifolio/static/css/main.b984154e.css.map",
+    "main.be084c46.js.map": "/portifolio/static/js/main.be084c46.js.map",
+    "453.65917257.chunk.js.map": "/portifolio/static/js/453.65917257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b984154e.css",
+    "static/js/main.be084c46.js"
+  ]
+}
