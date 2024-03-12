@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portifolio/static/css/main.b984154e.css",
-    "main.js": "/portifolio/static/js/main.be084c46.js",
+    "main.js": "/portifolio/static/js/main.4f0e9d14.js",
     "static/js/453.65917257.chunk.js": "/portifolio/static/js/453.65917257.chunk.js",
     "static/media/Curriculo (1).pdf": "/portifolio/static/media/Curriculo (1).bab88fe043a832188006.pdf",
     "static/media/Design sem nome-PhotoRoom.png-PhotoRoom (1).png": "/portifolio/static/media/Design sem nome-PhotoRoom.png-PhotoRoom (1).164ac18ccefb553decd7.png",
@@ -17,11 +17,11 @@
     "static/media/images-Photoroom.png-Photoroom (2).png": "/portifolio/static/media/images-Photoroom.png-Photoroom (2).39818ff3af43b692329b.png",
     "index.html": "/portifolio/index.html",
     "main.b984154e.css.map": "/portifolio/static/css/main.b984154e.css.map",
-    "main.be084c46.js.map": "/portifolio/static/js/main.be084c46.js.map",
+    "main.4f0e9d14.js.map": "/portifolio/static/js/main.4f0e9d14.js.map",
     "453.65917257.chunk.js.map": "/portifolio/static/js/453.65917257.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b984154e.css",
-    "static/js/main.be084c46.js"
+    "static/js/main.4f0e9d14.js"
   ]
 }
